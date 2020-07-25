@@ -8,7 +8,8 @@ Installation guide
 .. meta::
   :description: Read this guide to know how to install Wazuh and the Elasticsearch integration.
 
-This document will guide you through the Wazuh installation process. For interactive help, our `email forum <https://groups.google.com/d/forum/wazuh>`_ is available. You can subscribe to this forum by sending an email to `Wazuh subscribe <mailto:wazuh%2Bsubscribe@googlegroups.com>`_.
+This document will guide you through the Wazuh installation process. For interactive help, you can join our `community <https://wazuh.com/community>`_ channels in `Slack <https://wazuh.com/community/join-us-on-slack>`_, `Google groups <https://groups.google.com/forum/#!forum/wazuh>`_  and `GitHub <https://github.com/wazuh/>`_. 
+
 
 Setting up Wazuh involves the installation of two central components: the Wazuh server and Elastic Stack. In addition, Wazuh agents are deployed to the monitored hosts in your environment:
 
