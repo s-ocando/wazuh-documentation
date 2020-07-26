@@ -56,7 +56,7 @@ Once the process is complete, you can check the service status with:
 Installing the Wazuh API
 ------------------------
 
-1. NodeJS >= 4.6.1 is required in order to run the Wazuh API. If you do not have NodeJS installed or your version is older than 4.6.1, we recommend that you add the official NodeJS repository like this:
+1. NodeJS v4.6.1 or newer is required in order to run the Wazuh API. If you do not have NodeJS installed or your version is older than 4.6.1, we recommend that you add the official NodeJS repository like this:
 
   .. code-block:: console
 
