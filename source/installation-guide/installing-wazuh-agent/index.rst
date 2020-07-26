@@ -10,7 +10,7 @@ The Wazuh agent runs on the hosts that you want to monitor. It is multi-platform
 - Log and data collection
 - File integrity monitoring
 - Rootkit and malware detection
-- Security policy monitoring.
+- Security policy monitoring
 - Configuration assessments
 - Software inventory
 
