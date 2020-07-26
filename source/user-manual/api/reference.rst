@@ -6709,7 +6709,7 @@ Returns information from Mitre database
 	                  "Administrator"
 	                ],
 	               "name": "File System Logical Offsets",
-	               "description": "Windows allows programs to have direct access to logical volumes. Programs with direct access may read and write files directly from the drive by analyzing file system data structures. This technique bypasses Windows file access controls as well as file system monitoring tools. (Citation: Hakobyan 2009)\n\nUtilities, such as NinjaCopy, exist to perform these actions in PowerShell. (Citation: Github PowerSploit Ninjacopy)",
+	               "description": "Windows allows programs to have direct access to logical volumes. Programs with direct access may read and write files directly from the drive by analyzing file system data structures. This technique bypasses Windows file access controls as well as file system monitoring tools. (Citation: Hakobyan 2009)\n\nUtilities, such as NinjaCopy, exist to perform these actions in PowerShell. (Citation: GitHub PowerSploit Ninjacopy)",
 	               "id": "attack-pattern--0c8ab3eb-df48-4b9c-ace7-beacaac81cc5",
 	               "x_mitre_platforms": [
 	                  "Windows"
@@ -6725,7 +6725,7 @@ Returns information from Mitre database
 	                     "phase_name": "Defense Evasion"
 	                  }
 	               ],
-	               "x_mitre_detection": "Monitor handle opens on drive volumes that are made by processes to determine when they may directly access logical drives. (Citation: Github PowerSploit Ninjacopy)\n\nMonitor processes and command-line arguments for actions that could be taken to copy files from the logical drive and evade common file system protections. Since this technique may also be used through [PowerShell](https://attack.mitre.org/techniques/T1086), additional logging of PowerShell scripts is recommended.",
+	               "x_mitre_detection": "Monitor handle opens on drive volumes that are made by processes to determine when they may directly access logical drives. (Citation: GitHub PowerSploit Ninjacopy)\n\nMonitor processes and command-line arguments for actions that could be taken to copy files from the logical drive and evade common file system protections. Since this technique may also be used through [PowerShell](https://attack.mitre.org/techniques/T1086), additional logging of PowerShell scripts is recommended.",
 	               "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
 	               "created": "2017-05-31T21:30:20.934Z",
 	               "modified": "2018-10-17T00:14:20.652Z",
@@ -6742,7 +6742,7 @@ Returns information from Mitre database
 	                  },
 	                  {
 	                     "description": "Bialek, J. (2015, December 16). Invoke-NinjaCopy.ps1. Retrieved June 2, 2016.",
-	                     "source_name": "Github PowerSploit Ninjacopy",
+	                     "source_name": "GitHub PowerSploit Ninjacopy",
 	                     "url": "https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-NinjaCopy.ps1"
 	                  }
 	               ],

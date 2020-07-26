@@ -172,4 +172,4 @@ All the technologies we are using have their own logs files, you can check them 
 
       # cat /var/ossec/logs/ossec.log | grep -i -E "error|warn"
 
-You can also open a new thread in our `Google mailing list <https://groups.google.com/group/wazuh>`_, or a new issue in our `GitHub repository <https://github.com/wazuh/wazuh-kibana-app/issues>`_.
+You can also open a new thread in our `Google mailing list <https://groups.google.com/group/wazuh>`_, a new issue in our `GitHub repository <https://github.com/wazuh/wazuh-kibana-app/issues>`_ or join us in our  `Slack <https://wazuh.com/community/join-us-on-slack>`_ channel.

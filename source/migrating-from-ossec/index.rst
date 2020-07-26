@@ -15,7 +15,7 @@ Unfortunately OSSEC users have not seen lots of new features over the last decad
 
 This is why, back in 2015, Wazuh team decided to fork the project. The result is a much more comprehensive, easy to use, reliable and scalable solution. The fork has had great adoption among the open source community, quickly becoming a broadly used solution in enterprise environments.
 
-Regarding project activity and roadmap, you can find Wazuh code in our `Github repository <https://github.com/wazuh/wazuh>`_. We believe is relevant to mention that, at the time of writing this documentation, the project has over 8,500 commits (3,000+ more than OSSEC).
+Regarding project activity and roadmap, you can find Wazuh code in our `GitHub repository <https://github.com/wazuh/wazuh>`_. We believe is relevant to mention that, at the time of writing this documentation, the project has over 8,500 commits (3,000+ more than OSSEC).
 
 Here is a brief summary of the value we added to the OSSEC project, and good reasons to upgrade your security monitoring infrastructure moving it to Wazuh:
 
@@ -108,7 +108,7 @@ The following guides describe how to migrate your existing OSSEC installation to
 The migration of Elastic stack, in the case that you already have it installed, is beyond the scope of Wazuh documentation. We recommend you visit our guides for :ref:`Installing Elastic Stack <installation_elastic>`.
 
 .. note::
-    OSSEC agents are compatible with Wazuh server. You can even have different versions of Wazuh and OSSEC agents reporting to a centralized Wazuh server. Having said that, it is recommended to keep both server and agents updated to the latest version. For interactive help, our `mailing list <https://groups.google.com/d/forum/wazuh>`_ is available. You can subscribe by sending an email to ``wazuh+subscribe@googlegroups.com``.
+    OSSEC agents are compatible with Wazuh server. You can even have different versions of Wazuh and OSSEC agents reporting to a centralized Wazuh server. Having said that, it is recommended to keep both server and agents updated to the latest version. For interactive help, our `mailing list <https://groups.google.com/d/forum/wazuh>`_, `Slack <https://wazuh.com/community/join-us-on-slack>`_ channel and `GitHub <https://github.com/wazuh/>`_ community are available. 
 
 .. toctree::
    :hidden:

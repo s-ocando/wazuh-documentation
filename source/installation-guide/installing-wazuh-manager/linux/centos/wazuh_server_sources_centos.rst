@@ -95,7 +95,7 @@ Installing Wazuh manager
 Installing Wazuh API
 --------------------
 
-1. NodeJS >= 4.6.1 is required in order to run the Wazuh API. If you do not have NodeJS installed or your version is older than 4.6.1, we recommend you add the official repository as this has more recent versions.
+1. NodeJS v4.6.1 or newer is required in order to run the Wazuh API. If you do not have NodeJS installed or your version is older than 4.6.1, we recommend you add the official repository as this has more recent versions.
 
     .. code-block:: console
 

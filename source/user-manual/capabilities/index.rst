@@ -19,7 +19,7 @@ In this section, you will find:
 - Some practical examples.
 
 
-If you find a problem, error or if you want to ask related questions, please contact us through our `mailing list <https://groups.google.com/d/forum/wazuh>`_.
+If you find a problem, error or if you want to ask related questions, please contact us through our `mailing list <https://groups.google.com/d/forum/wazuh>`_, `Slack <https://wazuh.com/community/join-us-on-slack>`_ channel and `GitHub <https://github.com/wazuh/>`_ community.
 
 .. toctree::
     :maxdepth: 2

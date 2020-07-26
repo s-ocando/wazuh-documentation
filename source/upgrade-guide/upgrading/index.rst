@@ -16,7 +16,7 @@ This section describes how to upgrade an existing Wazuh installation. The upgrad
 +--------------+------------+------------------------------------------------------------------------------------------+
 
 .. note::
-    If you run into an issue during the upgrade process, feel free to ask for help in our `mailing list <https://groups.google.com/d/forum/wazuh>`_. The Wazuh team and other users of the Open Source community may be able to assist you.
+    If you run into an issue during the upgrade process, feel free to ask for help in our `mailing list <https://groups.google.com/d/forum/wazuh>`_, `Slack <https://wazuh.com/community/join-us-on-slack>`_ channel and `GitHub <https://github.com/wazuh/>`_ community. The Wazuh team and other users of the Open Source community may be able to assist you.
 
 .. toctree::
     :hidden:
